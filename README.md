@@ -1,63 +1,60 @@
-# Rahul Kumar — Portfolio Website
+# 🚀 Rahul Kumar — Personal Portfolio
 
-A premium, modern personal portfolio built with React + Vite + Tailwind CSS.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-studentsportfolio.tech-00ff88?style=for-the-badge&logo=netlify&logoColor=white)](https://studentsportfolio.tech/)
+[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studentsportfolio.tech/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Features
-- ✅ Dark futuristic theme with glassmorphism
-- ✅ Animated particle background (canvas)
-- ✅ Typing animation in Hero
-- ✅ Scroll reveal animations
-- ✅ Animated skill progress bars
-- ✅ Project cards with live demo links
-- ✅ Timeline experience layout
-- ✅ Contact form (Formspree)
-- ✅ Scroll progress indicator
-- ✅ Back-to-top button
-- ✅ Loading screen
-- ✅ Mobile responsive + hamburger menu
-- ✅ Sticky glass navbar
+> **Live at → [studentsportfolio.tech](https://studentsportfolio.tech/)**
 
-## Setup
+A modern, premium personal portfolio built with React + Vite + Tailwind CSS.
+
+---
+
+## ✨ Features
+
+- ⚡ Futuristic dark theme with glassmorphism cards
+- 🎨 Animated particle network background
+- ✍️ Typing animation in Hero section
+- 📊 Scroll-triggered skill progress bars
+- 📱 Fully mobile responsive
+- 📬 Contact form with Formspree
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|---|---|
+| React 18 + Vite | Frontend framework |
+| Tailwind CSS | Styling |
+| Lucide React | Icons |
+| Formspree | Contact form |
+| Netlify | Hosting |
+
+---
+
+## 🚀 Run Locally
 
 ```bash
+git clone https://github.com/Rahulkumar622/portfolio.git
+cd portfolio
 npm install
 npm run dev
 ```
 
-## Build
+---
 
-```bash
-npm run build
-```
+## 📬 Contact
 
-## Deploy to Netlify
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [studentsportfolio.tech](https://studentsportfolio.tech/) |
+| 💼 LinkedIn | [linkedin.com/in/rahul-kumar-475156360](https://www.linkedin.com/in/rahul-kumar-475156360) |
+| 🐙 GitHub | [github.com/Rahulkumar622](https://github.com/Rahulkumar622) |
+| 📧 Email | rahulkumarkanpdigital@gmail.com |
 
-1. Push to GitHub
-2. Connect repo in Netlify
-3. Build command: `npm run build`
-4. Publish directory: `dist`
+---
 
-## Deploy to Vercel
-
-```bash
-npx vercel
-```
-
-## Contact Form Setup
-
-1. Go to https://formspree.io and create a free account
-2. Create a new form and copy the form ID
-3. In `src/components/Contact.jsx`, replace `YOUR_FORM_ID` with your actual ID:
-   ```
-   https://formspree.io/f/YOUR_FORM_ID
-   ```
-
-## Resume
-
-Place your resume PDF at `public/resume.pdf` so the Download Resume button works.
-
-## Customization
-
-- **Colors**: Edit `src/index.css` CSS variables (--color-primary etc.)
-- **Content**: Edit each component in `src/components/`
-- **Fonts**: Change Google Fonts link in `index.html`
+<p align="center">Made with ❤️ by <strong>Rahul Kumar</strong></p>
+<p align="center"><a href="https://studentsportfolio.tech/">studentsportfolio.tech</a></p>
